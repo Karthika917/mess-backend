@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "name": "Dhanya",
+      "email": "dhanya@gmail.com",
+      "phone": "9083121234",
+      "room": "105",
+      "id": "Te1bwuBHfnw"
+    },
+    {
+      "name": "Kripesh",
+      "email": "kripesh@gmail.com",
+      "phone": "873417890",
+      "room": "107",
+      "id": "D9vMTbkbJVA"
+    },
+    {
+      "name": "Sunil",
+      "email": "suni@gmail.com",
+      "phone": "8902667899",
+      "room": "109",
+      "id": "QYRu-ITM6O0"
+    },
+    {
+      "id": "17d3",
+      "name": "Ramesh Kumar",
+      "email": "ramesh@gmail.com",
+      "phone": "9802416789",
+      "room": "108"
+    }
+  ],
+  "meals": [
+    {
+      "userId": "Te1bwuBHfnw",
+      "date": "2026-06-24",
+      "breakfast": true,
+      "lunch": false,
+      "dinner": false,
+      "id": "BAgXX21vRCk"
+    },
+    {
+      "id": "22fe",
+      "userId": "D9vMTbkbJVA",
+      "date": "2026-06-22",
+      "breakfast": true,
+      "lunch": true,
+      "dinner": true
+    },
+    {
+      "id": "f2fe",
+      "userId": "QYRu-ITM6O0",
+      "date": "2026-06-28",
+      "breakfast": true,
+      "lunch": true,
+      "dinner": false
+    },
+    {
+      "id": "986b",
+      "userId": "Te1bwuBHfnw",
+      "date": "2026-05-28",
+      "breakfast": true,
+      "lunch": true,
+      "dinner": true
+    },
+    {
+      "id": "0a1f",
+      "userId": "Te1bwuBHfnw",
+      "date": "2026-01-28",
+      "breakfast": true,
+      "lunch": true,
+      "dinner": true
+    },
+    {
+      "id": "078e",
+      "userId": "17d3",
+      "date": "2026-06-28",
+      "breakfast": true,
+      "lunch": true,
+      "dinner": true
+    }
+  ],
+  "expenses": [
+    {
+      "id": "1",
+      "date": "2026-06-01",
+      "description": "Vegetables",
+      "amount": 500
+    },
+    {
+      "id": "2",
+      "date": "2026-06-05",
+      "description": "Rice & Dal",
+      "amount": 1200
+    },
+    {
+      "id": "3",
+      "date": "2026-06-10",
+      "description": "Cooking Gas",
+      "amount": 800
+    },
+    {
+      "id": "413f",
+      "date": "2026-06-20",
+      "description": "wheat",
+      "amount": 500
+    },
+    {
+      "id": "e36e",
+      "date": "2026-04-28",
+      "description": "vegetables",
+      "amount": 2000
+    },
+    {
+      "id": "7eb0",
+      "date": "2026-04-22",
+      "description": "cooking gas",
+      "amount": 500
+    },
+    {
+      "id": "8678",
+      "date": "2026-06-28",
+      "description": "rice and vegetables",
+      "amount": 1800
+    }
+  ]
+}
