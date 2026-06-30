@@ -77,6 +77,30 @@
       "breakfast": true,
       "lunch": true,
       "dinner": true
+    },
+    {
+      "id": "a1ff",
+      "userId": "Te1bwuBHfnw",
+      "date": "2026-04-30",
+      "breakfast": true,
+      "lunch": true,
+      "dinner": true
+    },
+    {
+      "id": "6c90",
+      "userId": "D9vMTbkbJVA",
+      "date": "2026-04-30",
+      "breakfast": false,
+      "lunch": true,
+      "dinner": true
+    },
+    {
+      "id": "6a37",
+      "userId": "17d3",
+      "date": "2026-04-30",
+      "breakfast": true,
+      "lunch": true,
+      "dinner": false
     }
   ],
   "expenses": [
@@ -121,6 +145,50 @@
       "date": "2026-06-28",
       "description": "rice and vegetables",
       "amount": 1800
+    }
+  ],
+  "payments": [
+    {
+      "id": "8d1b",
+      "userId": "Te1bwuBHfnw",
+      "amount": 500,
+      "date": "2026-06-30",
+      "note": "Cash"
+    },
+    {
+      "id": "5a80",
+      "userId": "D9vMTbkbJVA",
+      "amount": 1400,
+      "date": "2026-06-30",
+      "note": "UPI"
+    },
+    {
+      "id": "4a2f",
+      "userId": "Te1bwuBHfnw",
+      "amount": 50,
+      "date": "2026-06-30",
+      "note": ""
+    },
+    {
+      "id": "b12f",
+      "userId": "Te1bwuBHfnw",
+      "amount": 100,
+      "date": "2026-04-01",
+      "note": "cash"
+    },
+    {
+      "id": "78c3",
+      "userId": "D9vMTbkbJVA",
+      "amount": 500,
+      "date": "2026-04-01",
+      "note": ""
+    },
+    {
+      "id": "1523",
+      "userId": "Te1bwuBHfnw",
+      "amount": 200,
+      "date": "2026-04-01",
+      "note": ""
     }
   ]
 }
